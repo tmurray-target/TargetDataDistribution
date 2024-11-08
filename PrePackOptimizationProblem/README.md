@@ -10,6 +10,8 @@ size may meet the needs of some locations, but not others. The goal is to design
 and matched so that each location receives as close to its required quantity of each size as possible, subject to constraints
 such as total unit quantity, minimum and maximum pack size, maximum number of packs per location, and others.
 
+This dataset is closely related to our paper "Assortment Pack Design and Allocation" which is currently under review.
+
 ## Dataset Description
 The `Datasets.zip` file contains 10 datasets which were used to benchmark Target's solver for the Pre-Pack Optimization Problem.
 Each dataset is contained in its own folder as a `csv` file of under 2000 rows of desired quantities for each size-location 
